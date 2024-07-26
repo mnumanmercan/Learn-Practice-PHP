@@ -1,3 +1,3 @@
 <?php 
 
-include 'about.view.php'; ?>
+include 'views/about.view.php'; ?>
