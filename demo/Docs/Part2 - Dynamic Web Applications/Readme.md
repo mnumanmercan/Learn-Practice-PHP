@@ -15,3 +15,6 @@ Bunun için partials yani benim alıştığım dilde component yapısını kulla
 Eğer o sayfa içinde sayfalara göre dinamik veriler elde edilecek bir yapı varsa şu şekilde değişkenleri kullanabiliriz.
 
 ![Dinamik Heading kullanımı](image-1.png)
+
+3 - [Super Globals](https://www.php.net/manual/en/language.variables.superglobals.php)
+
