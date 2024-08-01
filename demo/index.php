@@ -1,7 +1,5 @@
 <?php
 
-require 'functions.php';
+require "functions.php";
 
-$heading = 'Home';
-
-include 'views/index.view.php'; ?>
+require "router.php";

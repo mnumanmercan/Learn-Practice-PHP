@@ -18,3 +18,7 @@ Eğer o sayfa içinde sayfalara göre dinamik veriler elde edilecek bir yapı va
 
 3 - [Super Globals](https://www.php.net/manual/en/language.variables.superglobals.php)
 
+
+4 - Make a PHP Router -> Bu bölümde basic seviyede php router geliştirdim
+
+![Router yapısı](image-2.png)
